@@ -1,6 +1,8 @@
 # iOS-Vector-Images
 Using vector images in iOS Project
 
+Code is compilable in xcode 8
+
 Detailed steps to use are here:
 https://medium.com/@ankitkumargupta/vector-images-in-ios-using-xcassets-2ddb102171b9#.um2wjutdt
 
